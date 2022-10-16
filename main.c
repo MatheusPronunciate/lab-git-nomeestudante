@@ -39,6 +39,8 @@ else{
  
 int main(void) {
  
+  int x, y;
+
    printf("\n\n :::::::::  INICIO DO PROGRAMA ::::::: \n\n");
    printf("\n\nDigite o número x: ");
    scanf("%d",&x);
